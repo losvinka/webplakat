@@ -1,0 +1,25 @@
+@media (min-width: 600px) {
+  .btext .marquee-content {
+      top: -10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .header-b {
+      font-size: 17dvw;
+      padding-top: 2%;
+  }
+
+  .fourth-section .marquee-content {
+      margin-left: 7%;
+      margin-right: 7%;
+  }
+
+  .marquee-box-ft {
+      top: -12%;
+  }
+
+  .ss-left-bottom {
+      width: 110%;
+  }
+}
